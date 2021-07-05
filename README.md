@@ -1,1 +1,1 @@
-openwrt 19.07.7 firmwares for wr941hp-v1
+openwrt firmwares for wr941hp-v1 and revert to stock
