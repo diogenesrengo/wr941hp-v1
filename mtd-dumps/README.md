@@ -1,3 +1,3 @@
-partitions
+fixed partitions
 0x000000-0x020000:u-boot, 0x750000-0x7f0000:config, 0x7f0000-0x800000:art
 
